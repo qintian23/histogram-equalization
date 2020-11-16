@@ -1,2 +1,2 @@
 # histogram-equalization
-直接灰度变换和直方图均衡
+直方图均衡
